@@ -1,0 +1,74 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Eric saw monkeys and tigers in the zoo. Find the total number of animals and fill in the correct answer in the given boxes. ",
+    "options":["","+","","=",""],
+    "answers": ["11","+","6","=","17"],
+    "secondImg":"./images/1.jpg"
+
+  },
+  {
+    "questionNo": 2,
+    "question": "Next, he went to the elephants and giraffes area. Count and fill in the correct answers in the boxes to find the total number of animals.",
+    "options":["","+","","=",""],
+    "answers": ["9","+","3","=","12"],
+    "secondImg":"./images/2.jpg"
+    
+  },
+  {
+    "questionNo": 3,
+    "question": " Finally, Eric checked out the bird section. He saw parrots and owls. Count and fill in the correct answer in the empty boxes to find the total number of birds.",
+    "options":["","+","","=",""],
+    "answers": ["8","+","4","=","12"],
+    "secondImg":"./images/3.jpg"
+  },
+  {
+    "questionNo": 4,
+    "question": "Eric saw some zebras and tigers. Count them and find how many total animals Eric saw.",
+    "options":["","+","","=",""],
+    "answers": ["10","+","4","=","14"],
+    "secondImg":"./images/4.jpg"
+  },
+  {
+    "questionNo": 5,
+    "question": " Eric saw lions and rhinos. Count them and find how many total animals Eric saw.",
+    "options":["","+","","=",""],
+    "answers": ["12","+","5","=","17"],
+    "secondImg":"./images/5.jpg"
+  },
+  {
+    "questionNo": 6,
+    "question": "Eric is counting two types of animals. Find the total number of animals and write the answer in the empty box.",
+    "options":["","+","","=",""],
+    "answers": ["5","+","9","=","14"],
+    "secondImg":"./images/6.jpg"
+  },
+  {
+    "questionNo": 7,
+    "question": "In the bird area of the zoo, Eric counted two types of birds. Find the total number of birds by adding and writing the answer in the empty box.",
+    "options":["","+","","=",""],
+    "answers": ["9","+","9","=","18"],
+    "secondImg":"./images/7.jpg"
+  },
+  {
+    "questionNo": 8,
+    "question": " Find the total number of animals and write the answer in the empty box.",
+    "options":["","+","","=",""],
+    "answers": ["8","+","11","=","19"],
+    "secondImg":"./images/8.jpg"
+  },
+  {
+    "questionNo": 9,
+    "question": "Eric is counting two types of animals. Find the total number of animals and write the answer in the empty box.",
+    "options":["","+","","=",""],
+    "answers": ["11","+","8","=","19"],
+    "secondImg":"./images/9.jpg"
+  },
+  {
+    "questionNo": 10,
+    "question": "In the bird area of the zoo, Eric counted two types of birds. Find the total number of birds by adding and writing the answer in the empty box.",
+    "options":["","+","","=",""],
+    "answers": ["13","+","4","=","17"],
+    "secondImg":"./images/10.jpg"
+  }
+]
